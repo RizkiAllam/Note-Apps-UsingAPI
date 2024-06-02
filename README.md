@@ -1,4 +1,4 @@
-# restaurant-apps + PWA Testing and Optimized
+# Note-Apps-UsingAPI
 
 Submission untuk kelas "Belajar Fundamental Front-End Web Development" [Dicoding Indonesia].
 
